@@ -1,0 +1,6 @@
+Transaction,Item1,Item2,Item3,Item4,Item5
+T1,A,B,C,D,E
+T2,A,C,D,E,F
+T3,A,B,E,,
+T4,A,C,F,G,H
+T5,B,C,D,E,F
